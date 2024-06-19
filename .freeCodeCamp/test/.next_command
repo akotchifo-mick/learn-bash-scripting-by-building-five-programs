@@ -32,3 +32,4 @@ echo hello questionnaire >> questionnaire.sh
 echo hello questionnaire >> questionnaire.sh
 echo hello questionnaire > questionnaire.sh
 more questionnaire.sh
+sh questionnaire.sh
