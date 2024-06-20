@@ -65,3 +65,4 @@ which bash
 ls --color=auto -l
 chmd +x questionnaire.sh
 ls --color=auto -l
+./questionnaire.sh
