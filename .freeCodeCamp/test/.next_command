@@ -136,3 +136,7 @@ help test
 mear
 clear
 [[ -a countdown.sh ]]
+[[ -n -abad_file.txt ]]
+__vsc_prompt_cmd_original
+[[ -n -abad_file.txt ]]
+[[ -a bad_file.txt ]]
