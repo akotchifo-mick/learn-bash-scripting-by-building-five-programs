@@ -96,3 +96,4 @@ clear
 touch countdown.sh
 chmd +x countdown.sh
 chmod +x countdown.sh
+./countdown.sh
