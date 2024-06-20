@@ -176,3 +176,4 @@ echo $LANG
 declare -p
 clear
 echo $RANDOM
+echo $RANDOM
