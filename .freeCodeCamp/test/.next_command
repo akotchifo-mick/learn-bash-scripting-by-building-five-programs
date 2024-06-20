@@ -84,3 +84,4 @@ clear
 ./questionnaire.sh
 clear
 ./questionnaire.sh
+echo --help
