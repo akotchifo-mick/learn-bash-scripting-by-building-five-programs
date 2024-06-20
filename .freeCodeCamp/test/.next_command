@@ -87,3 +87,5 @@ clear
 echo --help
 man echo
 __vsc_prompt_cmd_original
+man echo
+./questionnaire.sh
