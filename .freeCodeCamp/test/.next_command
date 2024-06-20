@@ -143,3 +143,4 @@ __vsc_prompt_cmd_original
 help test
 clear
 [[ -x countdown.sh ]]
+help [[ expression ]]
