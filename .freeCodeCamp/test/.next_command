@@ -63,3 +63,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 which bash
 ./questionnaire.sh
 ls --color=auto -l
+chmd +x questionnaire.sh
