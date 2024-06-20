@@ -112,3 +112,6 @@ help if
 cleear
 clear
 help
+clear
+help if
+help [[ expression ]]
