@@ -189,3 +189,5 @@ clear
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 help let
+clear
+(( I+= 10 ))
