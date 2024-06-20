@@ -148,3 +148,4 @@ help [[ expression ]]
 __vsc_prompt_cmd_original
 [[ -x countdown.sh || 5 -le 4 ]]
 clear
+./countdown.sh 1
