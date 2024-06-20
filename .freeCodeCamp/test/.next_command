@@ -116,3 +116,5 @@ clear
 help if
 help [[ expression ]]
 help test
+clear
+./countdown.sh 5
