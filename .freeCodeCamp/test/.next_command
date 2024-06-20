@@ -151,3 +151,4 @@ clear
 ./countdown.sh 1
 ./countdown.sh -9
 help
+clear
