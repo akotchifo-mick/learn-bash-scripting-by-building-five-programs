@@ -119,3 +119,4 @@ help test
 clear
 ./countdown.sh 5
 [[ 4 -le 5 ]]
+echo $?
