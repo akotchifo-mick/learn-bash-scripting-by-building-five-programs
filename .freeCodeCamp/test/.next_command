@@ -102,3 +102,4 @@ chmod +x countdown.sh
 help
 clear
 man if
+help if
